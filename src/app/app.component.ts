@@ -7,4 +7,15 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'structural-directives';
+  isApproved=false;
+  numbers=[
+    'one',
+    'two',
+    'three',
+    'four',
+    'five'
+  ];
+  approve(status:any){
+    this.isApproved=status;
+  }
 }

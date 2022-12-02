@@ -25,6 +25,7 @@
               "src/assets"
             ],
             "styles": [
+              "D:/workspace-angular/Structural-Directives/structural-directives/node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
